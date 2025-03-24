@@ -38,7 +38,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About Me
+##😀 About Me
 
 Hi there! I am Olamilekan Ajao but you can refer to me as 'OLA". I am a professional data analyst with a mission to contribute to the data space.
 
