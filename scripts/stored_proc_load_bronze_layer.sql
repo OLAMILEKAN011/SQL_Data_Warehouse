@@ -1,4 +1,25 @@
---Create a stored procedure for repeatitive data load.
+/*
+=================================================================================================
+Stored Procedure Script: Load Bronze Layer (Source -> Bronze)
+=================================================================================================
+Purpose of Script:
+	This stored procedure script loads data into the 'bronze' schema from external CSV files. 
+	It performs the following:
+	- Truncates the bronze tables before loading new data.
+	- It uses the 'BULK INSERT' command to load data from CSV files to 'bronze' tables.
+
+Parameters:
+	- None
+	This stored procedure does not accept any parameters or return and values.
+
+Usage:
+	EXEC bronze.load_bronze;
+=================================================================================================
+*/
+
+
+
+--Create a stored procedure for repetitive data load.
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
