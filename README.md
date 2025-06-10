@@ -3,7 +3,7 @@
 Building a modern data warehouse with SQL server, ETL processes, data modeling, and analytics.
 
 Welcome to the  **An End-to-end Data Warehouse and  Analytics Project** repository!
-This project demonstrates a comprehensive data warehouse and analytics solution, from building a data warehouse to generating actionable insights. This is designed as a portfolio project to highlight industry best practices in data engineering and analytics.
+This project showcases a comprehensive data warehouse and analytics solution, from building a data warehouse to generating actionable insights. This is designed as a portfolio project to highlight industry best practices in data engineering and analytics.
 
 ---
 
@@ -12,7 +12,7 @@ This project demonstrates a comprehensive data warehouse and analytics solution,
 ###  Building the Data Warehouse (Data Engineering)
 
 ####  Objective
-Develop a modern data warehouse using SQL server to consolidate sales data, enabling analytical reporting and informed decision making.
+Develop a modern data warehouse using SQL server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 ####  Specifications
 - **Data Sources**: Import data from two source systems (ERP & CRM) provided as CSV files.
