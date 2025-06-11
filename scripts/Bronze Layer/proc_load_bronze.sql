@@ -140,8 +140,8 @@ BEGIN
 		-- To ensure table is empty for a new full load
 		
 		SET @start_time = GETDATE();
-		PRINT '>> Truncating Table: bronze.bronze.erp_loc_a101';
-		TRUNCATE TABLE bronze.bronze.erp_loc_a101;
+		PRINT '>> Truncating Table: bronze.erp_loc_a101';
+		TRUNCATE TABLE bronze.erp_loc_a101;
 
 		-- Load bulk data into empty table
 		PRINT '>> Inserting Data into: bronze.erp_loc_a101';
