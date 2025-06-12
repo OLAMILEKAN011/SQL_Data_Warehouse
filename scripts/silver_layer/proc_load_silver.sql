@@ -70,8 +70,7 @@ BEGIN
 	cst_create_date
 	FROM bronze.crm_cust_info;
 
-	SELECT *
-	FROM silver.crm_cust_info
+	DELETE FROM silver.crm_cust_info
 	WHERE cst_id IS NULL;
 
 	SET @end_time = GETDATE();
