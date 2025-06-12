@@ -40,8 +40,10 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ##😀 About Me
 
-Hi there! I am Olamilekan Ajao but you can refer to me as 'OLA". I am a professional data analyst with a mission to contribute to the data space.
+Hi there! I am Olamilekan Ajao but you can refer to me as 'OLA". 
+I'm a results-driven data professional with a strong passion for turning raw data into clear, actionable insights. With a proven track record in data analysis, SQL development, and business intelligence, I specialize in transforming complex data sets into strategic decisions that drive performance and growth. Whether it's cleaning messy data, building intuitive dashboards, or optimizing data pipelines, I thrive on solving real-world problems with precision and purpose.
 
-- 
+I've worked across diverse industries, collaborating with cross-functional teams to unlock the true value of data. My toolkit includes SQL, Python, Power BI/Tableau, and a sharp eye for detail—helping businesses not just understand their data, but use it to move forward with confidence.
 
+Let’s just say: there's a story buried in your data and, I'll help you unravel it.
 
